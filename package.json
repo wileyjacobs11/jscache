@@ -1,5 +1,5 @@
 {
-  "name": "jscache-lru",
+  "name": "@visallo/jscache-lru",
   "version": "1.0.0",
   "main": "index.js",
   "author": "monsur",
